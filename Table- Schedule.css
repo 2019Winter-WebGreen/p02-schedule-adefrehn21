@@ -16,10 +16,12 @@ body{
 
 }
 
+/* Below is my code to se the table border as a solid navy color */
 table, td, th {border: 1px solid navy;}
 
 table {border-collapse: collapse;}
 
+/* Below is my code to add color to the thead, tbody, and tboot */
 thead {background-color:palegreen;}
 tbody {background-color: antiquewhite;}
 tfoot {background-color: skyblue;}
