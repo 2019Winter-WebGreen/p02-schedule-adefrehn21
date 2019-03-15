@@ -1,0 +1,25 @@
+/*
+* Ashley DeFrehn
+* 19 March 2019
+* My 2nd Semester Schedule
+*/
+
+/* The universal selector */
+
+* {
+
+}
+
+/* Body attributes here */
+
+body{
+
+}
+
+table, td, th {border: 1px solid navy;}
+
+table {border-collapse: collapse;}
+
+thead {background-color:palegreen;}
+tbody {background-color: antiquewhite;}
+tfoot {background-color: skyblue;}
